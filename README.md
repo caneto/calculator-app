@@ -38,7 +38,7 @@ Este é uma calculadora usando os conhecimentos adquiridos da Academia do Flutte
 <h2>📝 Licença</h2>
 
 <p>
-   Esse repositório está sobre a Licença GNU General Public License v3.0, e você pode vê-la no arquivo <a href="https://github.com/caneto/calculadora-app/blob/main/LICENSE">LICENSE</a> para mais detalhes. 😉
+   Esse repositório está sobre a Licença GNU General Public License v3.0, e você pode vê-la no arquivo <a href="https://github.com/caneto/calculator-app/blob/main/LICENSE">LICENSE</a> para mais detalhes. 😉
 </p>
 
 
