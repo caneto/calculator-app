@@ -8,28 +8,28 @@ Este é uma calculadora usando os conhecimentos adquiridos da Academia do Flutte
 <table> 
   <tr>
     <td> 
-      <img width="250" src="https://github.com/caneto/elisha/blob/master/screenshots/foto_calculadora.png"/> 
+      <img width="250" src="https://github.com/caneto/calculator-app/blob/main/screenshots/foto_calculadora.png"/> 
     </td>
     <td>
-      <img width="250" src="https://github.com/caneto/elisha/blob/master/screenshots/foto_calculadora1.png"/> 
+      <img width="250" src="https://github.com/caneto/calculator-app/blob/main/screenshots/foto_calculadora1.png"/> 
     </td>
     <td> 
-      <img width="250" src="https://github.com/caneto/elisha/blob/master/screenshots/foto_calculadora2.png"/> 
+      <img width="250" src="https://github.com/caneto/calculator-app/blob/main/screenshots/foto_calculadora2.png"/> 
     </td>
   </tr>
   
   <tr>
     <td>
-      <img width="250" src="https://github.com/caneto/blob/master/screenshots/foto_calculadora3.png"/> 
+      <img width="250" src="https://github.com/caneto/calculator-app/blob/main/screenshots/foto_calculadora3.png"/> 
     </td>
     <td>
-      <img width="250" src="https://github.com/caneto/blob/master/screenshots/foto_calculadora4.png"/>
+      <img width="250" src="https://github.com/caneto/calculator-app/blob/main/screenshots/foto_calculadora4.png"/>
     </td>
     <td> 
-      <img width="250" src="https://github.com/caneto/blob/master/screenshots/foto_calculadora5.png"/>
+      <img width="250" src="https://github.com/caneto/calculator-app/blob/main/screenshots/foto_calculadora5.png"/>
     </td>
     <td> 
-      <img width="250" src="https://github.com/caneto/blob/master/screenshots/foto_calculadora6.png"/>
+      <img width="250" src="https://github.com/caneto/calculator-app/blob/main/screenshots/foto_calculadora6.png"/>
     </td>
   </tr>
   
